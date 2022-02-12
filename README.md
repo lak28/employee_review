@@ -19,7 +19,7 @@ npm install
 Steps to work on the appliaction are written below
 1 - First of all setup the application using the steps defined
 
-2 - Once both the backend server and the frontend server start in the localhost:8000,you will first see the signin page
+2 - Once both the backend server and the frontend server start in the localhost:3000,you will first see the signin page
 
 3- In the signin page enter the username and password of the user and press the signIn button(I have already created some users)
 
@@ -47,7 +47,7 @@ Steps to work on the appliaction are written below
 
 12-the model contains the database cariables to be saved
 
-12-the server .js is the main file wgich contains all the dependencies and functions
+12-the server.js is the main file which contains all the dependencies and functions
 
 other existing users created by me email -lakshyaarora4@gmail.com
 
